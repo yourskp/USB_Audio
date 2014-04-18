@@ -1,0 +1,3 @@
+- Changed volume control status endpoint from EP6 to EP3
+- Report ID added to HID iunput report for next/previous track
+- 
