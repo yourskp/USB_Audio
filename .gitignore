@@ -231,3 +231,7 @@ pip-log.txt
 *.html
 *.rpt
 
+*.uvproj
+USB_Digital_Audio/USB_Digital_Audio.cydsn/Generated_Source/PSoC3/post_link.bat
+USB_Digital_Audio/USB_Digital_Audio.cywrk.kris
+
