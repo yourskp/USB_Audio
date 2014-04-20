@@ -213,3 +213,21 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Creator user file
+*.kris
+
+#ignore temp files
+**/codegentemp/
+**/DP8051_Keil_951/*.*
+**/Generated_Source/PSoC3/*.h
+**/Generated_Source/PSoC3/*.inc
+**/Generated_Source/PSoC3/*.hex
+**/Generated_Source/PSoC3/*.a51
+*.cycdx
+*.cyfit
+*.svd
+*.uvopt
+*.html
+*.rpt
+
